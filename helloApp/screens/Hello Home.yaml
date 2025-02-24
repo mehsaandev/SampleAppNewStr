@@ -45,6 +45,11 @@ View:
             styles:
               width: 200
               height: 200
+        - Image:
+            source: image.png
+            styles:
+              width: 200
+              height: 200
 
 Global: |-
   //var myVar = myButton.label;
